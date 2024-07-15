@@ -9,17 +9,17 @@
   "UPTIME": 200,
   "commandDisabled": [],
   "eventDisabled": [],
-  "BOTNAME": "Bot",
-  "PREFIX": "?",
+  "BOTNAME": "Shuvo",
+  "PREFIX": "/",
   "ADMINBOT": [
-    "apnar uid",
-    "OTHER_FB_UID",
-    "100005057593971"
+    "100088042167816",
+    "100088042167816",
+    ""
   ],
   "DESIGN": {
     "Title": "BotPack",
     "Theme": "Blue",
-    "Admin": "YOUR_NAME",
+    "Admin": " Shuvo",
     "Setup": {
       "Title": "Design your own custom terminal Titlebar for the title and must contain no numbers",
       "Theme": "Customize your console effortlessly with various theme colors. Explore Aqua, Fiery, Blue, Pink, Red, Retro, Sunlight, Teen, Summer, Flower, Ghost, and Hacker themes to enhance your terminal logs."
